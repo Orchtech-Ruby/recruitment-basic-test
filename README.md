@@ -10,10 +10,10 @@ You can check https://mailboxlayer.com which will show you a live demonstration.
 
 For the 3rd party api, you may take a look at https://mailboxlayer.com/documentation, which contains detailed api requirements. So you will use this api to accomplish the task. You are free to use any framework to develop the solution. Also you can deploy it to heroku so that we can test the solution online. 
 
-Upon completion, you can push your solution to gitlab or github
+Upon completion, you can push your solution to gitlab or github.
 
 # 2. Back-end: Ruby on Rails Task
 Kindly find the task for the Ruby Backend Position:
 
 Given the algorithm attached country_product_price_setting_algorithm.rb, how can we refactor the code to conform to DRY and SOLID principles.
-Upon completion, you can push your solution to gitlab or github
+Upon completion, you can push your solution to gitlab or github.
